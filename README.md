@@ -1,12 +1,31 @@
-- 👋 Hi, I’m @trtlbby
-- 👀 I’m interested in Cyber Security, Network, and Database Management
-- 🌱 I’m currently learning Java in school
-- 💞️ I’m looking to collaborate on any projects. (Here to learn!)
-- 📫 How to reach me ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: lazy learner(not fun)
+👋 Hi, I’m @trtlbby
 
-<!---
-trtlbby/trtlbby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Computer Science student with interests in Cybersecurity, Computer Networks, and Database Management. I am focused on building strong fundamentals while continuously expanding my technical skill set.
+
+👀 Areas of Interest
+
+- Cybersecurity (foundations, security principles, threat awareness)
+
+- Computer Networks
+
+- Software Development
+
+🌱 Currently Working On
+
+- Resource Collection and Discovery
+
+💞️ Collaboration
+
+I am open to collaborating on beginner to intermediate projects, particularly those that help strengthen real-world problem-solving and system design skills. I value learning through collaboration and constructive feedback.
+
+📫 Contact
+
+GitHub: @trtlbby
+
+😄 Pronouns
+
+He / Him
+
+⚡ Fun Fact
+
+I believe in learning efficiently — working smarter, not harder.
