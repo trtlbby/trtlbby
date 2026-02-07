@@ -12,6 +12,7 @@ I am a Computer Science student with interests in Cybersecurity, Computer Networ
 
 🌱 Currently Working On
 
+- IskulAid (EduTech)
 - Resource Collection and Discovery
 
 💞️ Collaboration
